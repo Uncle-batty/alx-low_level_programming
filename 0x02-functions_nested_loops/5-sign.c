@@ -4,7 +4,7 @@
  * @n: number input
  * Return: if n >0 it prints '+' else '-'
  */
-int prit_sign(int n)
+int print_sign(int n)
 {
 	if (n >0)
 	{
