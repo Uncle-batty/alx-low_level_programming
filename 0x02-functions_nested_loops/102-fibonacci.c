@@ -5,7 +5,8 @@
  */
 int main(void)
 {
-	int k, num1, num2, fib;
+	int k;
+        long num1, num2, fib;
 
 	num1 = 1;
 	num2 = 1;
