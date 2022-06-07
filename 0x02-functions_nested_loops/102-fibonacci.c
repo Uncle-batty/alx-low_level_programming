@@ -6,12 +6,12 @@
 int main(void)
 {
 	int k;
-        long num1, num2, fib;
+	long num1, num2, fib;
 
 	num1 = 1;
 	num2 = 1;
 	printf("%ld, ", num2);
-	for (k = 0; k < 48; k++)
+	for (k = 0; k < 49; k++)
 	{
 		fib = num1 + num2;
 		num1 = num2;
