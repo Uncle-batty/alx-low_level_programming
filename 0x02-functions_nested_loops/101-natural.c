@@ -8,6 +8,7 @@
 int main(void)
 {
 	int k, sum;
+
 	for (k = 0; k < 1024; k++)
 	{
 		if ((k % 3 == 0) || (k % 5 == 0))
@@ -19,6 +20,6 @@ int main(void)
 			continue;
 		}
 	}
-	printf("%d",sum);
+	printf("%d\n", sum);
 	return (0);
 }
