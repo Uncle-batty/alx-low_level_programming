@@ -15,9 +15,9 @@ int main(void)
 		fib = num1 + num2;
 		num1 = num2;
 		num2 = fib;
-		print("%d", fib);
+		printf("%d", fib);
 		if (k < 48)
-			printf(", "
+			printf(", ");
 	}
 	printf("\n");
 	return (0);
