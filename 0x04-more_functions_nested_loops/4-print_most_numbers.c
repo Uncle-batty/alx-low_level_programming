@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * print_most_numbers - prints all numbers but not 2 and 4
