@@ -2,7 +2,7 @@
 
 /**
  * puts_half - prints half a string
- * @str: input 
+ * @str: input
  * Return: half of the string
  */
 void puts_half(char *str)
@@ -15,7 +15,7 @@ void puts_half(char *str)
 	{
 		len++;
 	}
-	
+
 	n = (len / 2);
 
 	if ((len % 2) == 1)
