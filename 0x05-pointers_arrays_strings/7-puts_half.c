@@ -5,7 +5,7 @@
  * @str: input 
  * Return: half of the string
  */
-void put_half(char *str)
+void puts_half(char *str)
 {
 	int i, n, len;
 
