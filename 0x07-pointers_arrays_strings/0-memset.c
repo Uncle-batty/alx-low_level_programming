@@ -4,6 +4,7 @@
  * @s: destanation
  * @b: byte
  * @n: bytess
+ * Returnn: string
  */
 char *_memset(char *s, char b, unsigned int n)
 {
